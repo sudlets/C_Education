@@ -3,5 +3,5 @@
 
 Лабораторная работа №1
 Цель данной работы заключается в составлении программы вычисления функций:
-![Функции](https://cloud.mail.ru/public/UTpY/6dnyskMa1)
+![Функции](/sudlets/C_Education/blob/main/Images/Lab1.png)
 
